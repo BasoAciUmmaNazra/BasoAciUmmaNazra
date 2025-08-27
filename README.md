@@ -1,4 +1,4 @@
-## Baso Aci Umma nazra 👋
+## [Baso Aci Umma nazra](https://github.com/BasoAciUmmaNazra/BasoAciUmmaNazra.git) 👋
 
 <!--
 **BasoAciUmmaNazra/BasoAciUmmaNazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
